@@ -1,5 +1,7 @@
 FROM bitwalker/alpine-elixir-phoenix:1.6.4
 
+MAINTAINER Clairton Rodrigo Heinzen <clairton.rodrigo@gmail.com>
+
 # add postgresql-client
 RUN apk add --update --no-cache postgresql-client
 
