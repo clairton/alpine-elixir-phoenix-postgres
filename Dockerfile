@@ -1,4 +1,4 @@
-FROM bitwalker/alpine-elixir-phoenix:1.6.4
+FROM bitwalker/alpine-elixir-phoenix:1.6.6
 
 MAINTAINER Clairton Rodrigo Heinzen <clairton.rodrigo@gmail.com>
 
